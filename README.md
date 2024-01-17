@@ -4,7 +4,9 @@ This GitHub repository focuses on predicting electricity consumption in building
 
 ## Key Features
 **Machine Learning Models**: Utilizes LightGBM, XGBoost, and CatBoost for accurate electricity consumption predictions.
+
 **Explainability Techniques**: Incorporates XAI methods, including feature importance, to enhance model interpretability.
+
 **Dataset**: Evaluates models on the Grenoble University building dataset, offering non-aggregated electricity consumption data for various room types over two years.
 
 ## Results
